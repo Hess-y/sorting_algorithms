@@ -1,5 +1,3 @@
-s (74 sloc)  1.57 KB
-
 #include "sort.h"
 
 /**
